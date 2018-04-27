@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RakNet", "RakNet.vcxproj", "{D0866C2B-11D1-400B-84BF-EA83A561B7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0866C2B-11D1-400B-84BF-EA83A561B7DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0866C2B-11D1-400B-84BF-EA83A561B7DA}.Debug|Win32.Build.0 = Debug|Win32
+		{D0866C2B-11D1-400B-84BF-EA83A561B7DA}.Release|Win32.ActiveCfg = Release|Win32
+		{D0866C2B-11D1-400B-84BF-EA83A561B7DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781C827F-9D45-4694-8352-D92E43CBBDA4}
+	EndGlobalSection
+EndGlobal

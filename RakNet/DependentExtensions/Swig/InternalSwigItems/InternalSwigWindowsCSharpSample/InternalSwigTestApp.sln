@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalSwigTestApp", "InternalSwigTestApp\InternalSwigTestApp.csproj", "{D5413F9B-65A2-47AA-A0B1-E0FA9A036AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5413F9B-65A2-47AA-A0B1-E0FA9A036AC1}.Debug|x86.ActiveCfg = Debug|x86
+		{D5413F9B-65A2-47AA-A0B1-E0FA9A036AC1}.Debug|x86.Build.0 = Debug|x86
+		{D5413F9B-65A2-47AA-A0B1-E0FA9A036AC1}.Release|x86.ActiveCfg = Release|x86
+		{D5413F9B-65A2-47AA-A0B1-E0FA9A036AC1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31A3A33D-B166-4A79-A1C0-143E83099087}
+	EndGlobalSection
+EndGlobal
